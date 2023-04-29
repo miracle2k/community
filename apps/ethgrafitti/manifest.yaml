@@ -1,0 +1,8 @@
+---
+id: ethereum-grafitti
+name: Ethereum Grafitti
+summary: Ethereum block grafittisk
+desc: Shows the Grafitti of the latest Ethereum block.
+author: 0xmetaclass
+fileName: ethereum_grafitti.star
+packageName: ethgrafitti
